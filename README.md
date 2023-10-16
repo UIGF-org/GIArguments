@@ -1,5 +1,5 @@
 # GIArguments
-Genshin Impact UnityPlayer arguments
+Genshin Impact UnityPlayer arguments  
 Some of them are `Editor arguments` and thus not valid in start process arguments
 
 |Arguments|Argument|Description|
